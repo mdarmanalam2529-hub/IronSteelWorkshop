@@ -24,4 +24,6 @@ dist-ssr
 .data/
 .secrets/
 .bolt/
+*.sqlite
+*.db
 
